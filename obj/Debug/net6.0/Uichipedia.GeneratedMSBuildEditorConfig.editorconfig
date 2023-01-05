@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Ruxi\facultate\Anul 4\Sem 1\Dezv App Web\Proiect\Uichipedia
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

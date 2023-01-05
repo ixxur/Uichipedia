@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Uichipedia.Data;
 namespace Uichipedia
 {
     public class Program
@@ -5,6 +8,8 @@ namespace Uichipedia
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<UichipediaContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("UichipediaContext") ?? throw new InvalidOperationException("Connection string 'UichipediaContext' not found.")));
 
             // Add services to the container.
             builder.Services.AddRazorPages();
