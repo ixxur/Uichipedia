@@ -41,5 +41,10 @@ namespace Uichipedia.Pages.Articles
 
             return RedirectToPage("./Index");
         }
+
+        public String createDate()
+        {
+            return DateTime.Now.ToString("yyyy-MM-dd");
+        }
     }
 }
