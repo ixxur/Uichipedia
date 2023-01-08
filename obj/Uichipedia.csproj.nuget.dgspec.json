@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ruxi\\facultate\\Anul 4\\Sem 1\\Dezv App Web\\Proiect\\Uichipedia\\Uichipedia.csproj": {}
+    "C:\\Users\\gabyl\\OneDrive\\Desktop\\FACULTATE\\Anul 4\\Sem 1\\Dezvoltarea Aplicatiilor Web\\Proiect\\Uichipedia\\Uichipedia.csproj": {}
   },
   "projects": {
-    "D:\\Ruxi\\facultate\\Anul 4\\Sem 1\\Dezv App Web\\Proiect\\Uichipedia\\Uichipedia.csproj": {
+    "C:\\Users\\gabyl\\OneDrive\\Desktop\\FACULTATE\\Anul 4\\Sem 1\\Dezvoltarea Aplicatiilor Web\\Proiect\\Uichipedia\\Uichipedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ruxi\\facultate\\Anul 4\\Sem 1\\Dezv App Web\\Proiect\\Uichipedia\\Uichipedia.csproj",
+        "projectUniqueName": "C:\\Users\\gabyl\\OneDrive\\Desktop\\FACULTATE\\Anul 4\\Sem 1\\Dezvoltarea Aplicatiilor Web\\Proiect\\Uichipedia\\Uichipedia.csproj",
         "projectName": "Uichipedia",
-        "projectPath": "D:\\Ruxi\\facultate\\Anul 4\\Sem 1\\Dezv App Web\\Proiect\\Uichipedia\\Uichipedia.csproj",
-        "packagesPath": "C:\\Users\\ASUS VIVOBOOK\\.nuget\\packages\\",
-        "outputPath": "D:\\Ruxi\\facultate\\Anul 4\\Sem 1\\Dezv App Web\\Proiect\\Uichipedia\\obj\\",
+        "projectPath": "C:\\Users\\gabyl\\OneDrive\\Desktop\\FACULTATE\\Anul 4\\Sem 1\\Dezvoltarea Aplicatiilor Web\\Proiect\\Uichipedia\\Uichipedia.csproj",
+        "packagesPath": "C:\\Users\\gabyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabyl\\OneDrive\\Desktop\\FACULTATE\\Anul 4\\Sem 1\\Dezvoltarea Aplicatiilor Web\\Proiect\\Uichipedia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS VIVOBOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.12, )"
@@ -53,6 +61,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [
@@ -61,8 +73,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
