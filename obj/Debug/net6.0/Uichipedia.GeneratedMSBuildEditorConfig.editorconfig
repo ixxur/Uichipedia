@@ -5,92 +5,93 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Uichipedia
 build_property.RootNamespace = Uichipedia
-build_property.ProjectDir = C:\Users\gabyl\OneDrive\Desktop\FACULTATE\Anul 4\Sem 1\Dezvoltarea Aplicatiilor Web\Proiect\Uichipedia\
+build_property.ProjectDir = D:\Ruxi\facultate\Anul 4\Sem 1\Dezv App Web\Proiect\Uichipedia\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gabyl\OneDrive\Desktop\FACULTATE\Anul 4\Sem 1\Dezvoltarea Aplicatiilor Web\Proiect\Uichipedia
+build_property.MSBuildProjectDirectory = D:\Ruxi\facultate\Anul 4\Sem 1\Dezv App Web\Proiect\Uichipedia
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Articles/Create.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Articles/Delete.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Articles/Details.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Articles/Edit.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Articles/Index.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Articles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWNsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Error.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Index.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Privacy.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Shared/_LoginPartial.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/_ViewImports.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/_ViewStart.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabyl/OneDrive/Desktop/FACULTATE/Anul 4/Sem 1/Dezvoltarea Aplicatiilor Web/Proiect/Uichipedia/Pages/Shared/_Layout.cshtml]
+[D:/Ruxi/facultate/Anul 4/Sem 1/Dezv App Web/Proiect/Uichipedia/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o4jmwrhjak
